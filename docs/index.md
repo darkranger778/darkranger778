@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Hey Croeso, Welcome to peaceful solutions to violant problems. 
 
 You can use the [editor on GitHub](https://github.com/darkranger778/darkranger778/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
