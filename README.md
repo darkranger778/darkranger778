@@ -15,5 +15,8 @@
 - Cymraeg
 - English
 
-
+<a href="https://www.youtube.com/channel/UCR1OACFcSLu6y_1HppDno7g">
+  <img
+    alt="Youtube"
+    src="https://img.shields.io/badge/youtube-013220?logo=youtube&logoColor=white&style=for-the-badge"
 
