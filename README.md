@@ -1,6 +1,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=darkranger778" />
 
-
+<p style="color:#ff0000">Text here</p>
 # 💻 Who Am I
 
 -  Hi, I’m @darkranger778 my actual name is Haris and I'm a hobbyist
