@@ -17,8 +17,4 @@
 - Cymraeg
 - English
 
-<a href="https://www.youtube.com/channel/UCR1OACFcSLu6y_1HppDno7g">
-  <imgalt="Youtube"
-    src="https://img.shields.io/badge/youtube-ff0000?logo=youtube&logoColor=white&style=for-the-badge"
-
-```diff-
+[https://camo.githubusercontent.com/ccc74fb400f9d4a7fed30cad2d89c76b73be982c39af329ec78a58bb700bd995/687474703a2f2f692e696d6775722e636f6d2f50335966516f442e706e67]: http://www.facebook.com/profile.php?id=100013579298467
