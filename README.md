@@ -1,3 +1,4 @@
+<img src="https://github.com/darkranger778/darkranger778/blob/main/header.png/">
 
 <img src="https://github-readme-stats.vercel.app/api?username=darkranger778" />
 
