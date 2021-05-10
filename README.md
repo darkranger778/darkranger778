@@ -2,14 +2,11 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=darkranger778" />
 
-<p style="color:#ff0000">Text here</p>
-# 💻 Who Am I
-
--  Hi, I’m @darkranger778 my actual name is Haris and I'm a hobbyist
+<p style="color:#ff0000">Hi, I’m @darkranger778 my actual name is Haris and I'm a hobbyist
 -  I’m interested in ... creating peaceful solutions to violant problems
 -  I’m currently learning ... Sociology and History at Cardiff University
 -  I’m looking to collaborate on ... mostly html and game jams. 
--  How to reach me ... Please email me at Harishussnain111@gmail.com
+-  How to reach me ... Please email me at Harishussnain111@gmail.com</p>
 
 ## 💻 Programes i use
 - Ruby on Rails (ES2020)
