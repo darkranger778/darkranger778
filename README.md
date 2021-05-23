@@ -18,3 +18,7 @@
 - English
 
 [https://camo.githubusercontent.com/ccc74fb400f9d4a7fed30cad2d89c76b73be982c39af329ec78a58bb700bd995/687474703a2f2f692e696d6775722e636f6d2f50335966516f442e706e67]: http://www.facebook.com/profile.php?id=100013579298467
+
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="haris-hussnain-17ab64200" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://uk.linkedin.com/in/haris-hussnain-17ab64200?trk=profile-badge">Haris Hussnain</a></div>
+              
