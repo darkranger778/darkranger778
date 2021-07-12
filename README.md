@@ -22,3 +22,5 @@
 
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="haris-hussnain-17ab64200" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://uk.linkedin.com/in/haris-hussnain-17ab64200?trk=profile-badge">Haris Hussnain</a></div>
               
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="haris-hussnain-17ab64200" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://uk.linkedin.com/in/haris-hussnain-17ab64200?trk=profile-badge">Haris Hussnain</a></div>
+              
