@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/harisjhussnain" target="blank"><img src="https://img.shields.io/twitter/follow/harisjhussnain?logo=twitter&style=for-the-badge" alt="harisjhussnain" /></a> </p>
 
-- 🔭 I’m currently working on **Discovery project Cardiff Uni**
+- 🔭 I’m currently working on **a basic atm **
 
 - 🌱 I’m currently learning **LUA**
 
